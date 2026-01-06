@@ -1,24 +1,35 @@
-# 💫 About Me:
-Hi, I’m Deepak<br><br>Early stage product builder learning full stack development by shipping real products.<br><br>I care about making useful things that people actually touch and use. Right now I’m building:<br><br>Lostify<br>A simple platform that connects people who lose items with the ones who find them<br>Live: lostify-sst.vercel.app<br><br>I’m also exploring a bigger idea quietly shaping into PoojaOne, focused on a massive and underserved market.<br><br>What I use today<br>HTML, CSS, JavaScript, React basics, Git and GitHub, Figma for UI design<br><br>Who I want to connect with<br>Early stage founders who can guide me on product building<br>Builders who love experimenting with new ideas<br><br>How I work<br>I learn insanely fast when I care about something<br>I ship, even when the first version is ugly
+## 💫 About Me
 
+I’m a frontend-focused developer with a strong execution bias.  
+I build real, usable web products and care more about shipping than buzzwords.
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kushwaha_deepak07) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Deepak Kushwaha) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:deepak.kushwaha171206@gmail.com) 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=DeeKush&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=DeeKush&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=DeeKush&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=DeeKush&limit=5&theme=dark&combine_all_yearly_contributions=true)
+- 🔭 Working on frontend-heavy web projects, portfolio-grade products, and early-stage startup ideas
+- 👯 Open to hackathons and frontend-focused collaborations where ownership matters
+- 🤝 Looking for code reviews and architectural feedback on real projects
+- 🌱 Learning React, backend integration, and writing cleaner, scalable frontend code
+- 💬 Ask me about frontend fundamentals, project structuring, and JEE → tech transition
+- ⚡ Fun fact: I approach software the same way I approached exams: eliminate noise, focus on leverage, iterate fast
 
 ---
-[![](https://visitcount.itsvg.in/api?id=DeeKush&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🌐 Socials
+
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kushwaha_deepak07)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Deepak%20Kushwaha)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:deepak.kushwaha.171206@gmail.com)
+
+---
+
+## 💻 Tech Stack
+
+**Frontend:** HTML, CSS, JavaScript, React, Tailwind CSS  
+**Backend & DB:** Firebase, MySQL, Supabase  
+**Languages:** Java, C++, Python  
+**Tools & Deployment:** Git, GitHub, Vercel, Netlify, Postman, Figma
+
+---
+
+## 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=DeeKush&theme=dark&hide_border=true&include_all_commits=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=DeeKush&theme=dark&hide_border=true&layout=compact)
