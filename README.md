@@ -67,6 +67,17 @@ const developer = {
 <table align="center">
   <tr>
     <td width="50%" valign="top">
+      <h3 align="center">� PoojaOne</h3>
+      <p align="center">
+        <a href="https://github.com/DeeKush/PoojaOne">
+          <img src="https://img.shields.io/badge/View_Repo-100000?style=for-the-badge&logo=github&logoColor=white" alt="View Repo"/>
+        </a>
+      </p>
+      <p align="center">
+        TypeScript-based spiritual/religious web application.
+      </p>
+    </td>
+    <td width="50%" valign="top">
       <h3 align="center">👕 Closet-IQ</h3>
       <p align="center">
         <a href="https://github.com/DeeKush/Closet-IQ">
@@ -74,9 +85,11 @@ const developer = {
         </a>
       </p>
       <p align="center">
-        A JavaScript web app for wardrobe management with AI-powered outfit suggestions using rule-based decision logic.
+        Wardrobe management with AI-powered outfit suggestions using rule-based decision logic.
       </p>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <h3 align="center">🏫 CampusSlot</h3>
       <p align="center">
@@ -85,22 +98,22 @@ const developer = {
         </a>
       </p>
       <p align="center">
-        Frontend web app for students to view, reserve, and manage shared campus resources with dynamic DOM manipulation.
+        Frontend web app for students to view, reserve, and manage shared campus resources.
       </p>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
-      <h3 align="center">💰 SpendWise</h3>
+      <h3 align="center">� SpendWise</h3>
       <p align="center">
         <a href="https://github.com/DeeKush/SpendWise">
           <img src="https://img.shields.io/badge/View_Repo-100000?style=for-the-badge&logo=github&logoColor=white" alt="View Repo"/>
         </a>
       </p>
       <p align="center">
-        Helps students understand how spending choices affect long-term financial habits. Frontend-only financial awareness app.
+        Helps students understand how spending choices affect long-term financial habits.
       </p>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <h3 align="center">🔍 Lostify</h3>
       <p align="center">
@@ -109,11 +122,9 @@ const developer = {
         </a>
       </p>
       <p align="center">
-        Lost & Found platform built with JavaScript. Helping people reconnect with their lost items. ⭐ 1 star
+        Lost & Found platform helping people reconnect with their lost items. ⭐ 1
       </p>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <h3 align="center">✈️ Flight Tracker</h3>
       <p align="center">
@@ -123,17 +134,6 @@ const developer = {
       </p>
       <p align="center">
         OSC Hackathon project for real-time flight tracking and visualization.
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">✅ TaskMate</h3>
-      <p align="center">
-        <a href="https://github.com/DeeKush/TaskMate">
-          <img src="https://img.shields.io/badge/View_Repo-100000?style=for-the-badge&logo=github&logoColor=white" alt="View Repo"/>
-        </a>
-      </p>
-      <p align="center">
-        Task management application with a clean, intuitive interface for productivity.
       </p>
     </td>
   </tr>
@@ -150,31 +150,11 @@ const developer = {
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DeeKush&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&card_width=400" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DeeKush&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=DeeKush&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeeKush&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=8" alt="Top Languages" />
-</p>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=DeeKush&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=4&row=2" alt="GitHub Trophies"/>
-</p>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-## � Contribution Calendar
-
-<p align="center">
-  <img src="https://ghchart.rshah.org/58A6FF/DeeKush" alt="Contribution Chart"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeeKush&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" alt="Top Languages" />
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
