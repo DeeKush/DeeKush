@@ -1,35 +1,28 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Hey%2C+I'm+Deepak+Kushwaha+%F0%9F%91%8B;Computer+Science+Student;Java+%7C+Software+Development;AI%2FML+%7C+Intelligent+Systems;Building+Real-World+Solutions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Hey%2C+I'm+Deepak+Kushwaha+%F0%9F%91%8B;Computer+Science+Student;JavaScript+%7C+Software+Development;Building+Real-World+Web+Apps" alt="Typing SVG" />
 </h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=DeeKush&label=Profile%20Views&color=58A6FF&style=for-the-badge" alt="Profile Views" />
-</p>
-
-<p align="center">
-  <em>Building practical software systems with strong foundations in Java and intelligent, real-world AI/ML applications.</em>
+  <em>Turning ideas into code. Building practical web applications with JavaScript and modern frontend technologies.</em>
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 💫 About Me
 
-```java
-public class Developer {
-    String name = "Deepak Kushwaha";
-    String role = "Computer Science Student";
-    String[] focus = {"Java", "AI/ML", "Software Development"};
-    
-    public String getCurrentWork() {
-        return "Building intelligent, production-ready systems";
-    }
-}
+```javascript
+const developer = {
+    name: "Deepak Kushwaha",
+    role: "Computer Science Student",
+    focus: ["JavaScript", "React", "Web Development"],
+    currentWork: () => "Building real-world web applications"
+};
 ```
 
-- 🔭 Working on **Java-based backend systems** and **AI-powered applications**
-- 🧠 Building **intelligent systems** with Computer Vision & LLM APIs
-- 🌱 Learning **clean architecture, scalable code, and ML integration**
-- 💬 Ask me about **Java, DSA, AI/ML, and system design fundamentals**
+- 🔭 Working on **frontend-heavy web projects** and **portfolio-grade products**
+- 🌱 Learning **React, clean architecture, and scalable frontend code**
+- 👯 Open to **hackathons** and **frontend-focused collaborations**
+- 💬 Ask me about **frontend fundamentals, project structuring, and web dev**
 - ⚡ Fun fact: I approach software the same way I approached exams — **eliminate noise, focus on leverage, iterate fast**
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
@@ -37,34 +30,34 @@ public class Developer {
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/Deepak%20Kushwaha" target="_blank">
+  <a href="https://linkedin.com/in/deepak-kush" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://instagram.com/kushwaha_deepak07" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/>
   </a>
-  <a href="mailto:deepak.kushwaha.171206@gmail.com">
+  <a href="mailto:deepak.kushwaha171206@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## �️ Tech Stack
+## 🛠️ Tech Stack
 
 <h3 align="center">Languages</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,js,cpp&theme=dark" alt="Languages"/>
+  <img src="https://skillicons.dev/icons?i=js,ts,python,java,html,css&theme=dark" alt="Languages"/>
 </p>
 
-<h3 align="center">Frontend & Backend</h3>
+<h3 align="center">Frameworks & Libraries</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,html,css,tailwind,firebase,mysql,supabase&theme=dark" alt="Web Technologies"/>
+  <img src="https://skillicons.dev/icons?i=react,tailwind,nodejs&theme=dark" alt="Frameworks"/>
 </p>
 
-<h3 align="center">AI/ML & Tools</h3>
+<h3 align="center">Backend & Tools</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=opencv,git,github,vercel,linux,figma,postman&theme=dark" alt="Tools"/>
+  <img src="https://skillicons.dev/icons?i=firebase,supabase,mysql,git,github,vercel,figma&theme=dark" alt="Tools"/>
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
@@ -73,41 +66,91 @@ public class Developer {
 
 <table align="center">
   <tr>
-    <td width="50%">
-      <h3 align="center">🧠 AI Fact Checker</h3>
+    <td width="50%" valign="top">
+      <h3 align="center">👕 Closet-IQ</h3>
       <p align="center">
-        Real-time browser extension that verifies online claims using LLM APIs while browsing.
+        <a href="https://github.com/DeeKush/Closet-IQ">
+          <img src="https://img.shields.io/badge/View_Repo-100000?style=for-the-badge&logo=github&logoColor=white" alt="View Repo"/>
+        </a>
+      </p>
+      <p align="center">
+        A JavaScript web app for wardrobe management with AI-powered outfit suggestions using rule-based decision logic.
       </p>
     </td>
-    <td width="50%">
-      <h3 align="center">🖐️ Gesture Control System</h3>
+    <td width="50%" valign="top">
+      <h3 align="center">🏫 CampusSlot</h3>
       <p align="center">
-        Computer vision system that translates hand gestures into actions, enabling touchless interaction.
+        <a href="https://github.com/DeeKush/CampusSlot">
+          <img src="https://img.shields.io/badge/View_Repo-100000?style=for-the-badge&logo=github&logoColor=white" alt="View Repo"/>
+        </a>
+      </p>
+      <p align="center">
+        Frontend web app for students to view, reserve, and manage shared campus resources with dynamic DOM manipulation.
       </p>
     </td>
   </tr>
   <tr>
-    <td width="50%">
-      <h3 align="center">🧱 ETL Declassifier Tool</h3>
+    <td width="50%" valign="top">
+      <h3 align="center">💰 SpendWise</h3>
       <p align="center">
-        Python-based ETL pipeline with Streamlit frontend for data processing and classification workflows.
+        <a href="https://github.com/DeeKush/SpendWise">
+          <img src="https://img.shields.io/badge/View_Repo-100000?style=for-the-badge&logo=github&logoColor=white" alt="View Repo"/>
+        </a>
+      </p>
+      <p align="center">
+        Helps students understand how spending choices affect long-term financial habits. Frontend-only financial awareness app.
       </p>
     </td>
-    <td width="50%">
-      <h3 align="center">⚙️ Java Software Projects</h3>
+    <td width="50%" valign="top">
+      <h3 align="center">🔍 Lostify</h3>
       <p align="center">
-        Core Java projects focused on clean architecture, problem-solving, and system design fundamentals.
+        <a href="https://github.com/DeeKush/Lostify">
+          <img src="https://img.shields.io/badge/View_Repo-100000?style=for-the-badge&logo=github&logoColor=white" alt="View Repo"/>
+        </a>
+      </p>
+      <p align="center">
+        Lost & Found platform built with JavaScript. Helping people reconnect with their lost items. ⭐ 1 star
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">✈️ Flight Tracker</h3>
+      <p align="center">
+        <a href="https://github.com/DeeKush/Flight_Tracker">
+          <img src="https://img.shields.io/badge/View_Repo-100000?style=for-the-badge&logo=github&logoColor=white" alt="View Repo"/>
+        </a>
+      </p>
+      <p align="center">
+        OSC Hackathon project for real-time flight tracking and visualization.
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">✅ TaskMate</h3>
+      <p align="center">
+        <a href="https://github.com/DeeKush/TaskMate">
+          <img src="https://img.shields.io/badge/View_Repo-100000?style=for-the-badge&logo=github&logoColor=white" alt="View Repo"/>
+        </a>
+      </p>
+      <p align="center">
+        Task management application with a clean, intuitive interface for productivity.
       </p>
     </td>
   </tr>
 </table>
+
+<p align="center">
+  <a href="https://github.com/DeeKush?tab=repositories">
+    <img src="https://img.shields.io/badge/View_All_Repos-58A6FF?style=for-the-badge&logo=github&logoColor=white" alt="All Repos"/>
+  </a>
+</p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DeeKush&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=DeeKush&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&card_width=400" alt="GitHub Stats" />
 </p>
 
 <p align="center">
@@ -115,7 +158,7 @@ public class Developer {
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeeKush&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeeKush&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=8" alt="Top Languages" />
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
@@ -123,15 +166,15 @@ public class Developer {
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=DeeKush&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&column=7" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=DeeKush&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=4&row=2" alt="GitHub Trophies"/>
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 📈 Contribution Graph
+## � Contribution Calendar
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DeeKush&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph"/>
+  <img src="https://ghchart.rshah.org/58A6FF/DeeKush" alt="Contribution Chart"/>
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
